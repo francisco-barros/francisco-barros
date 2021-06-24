@@ -13,7 +13,7 @@ I have a degree in System Analysis and Development in Fatec São Paulo, so you c
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/francisco-b-404693208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/francisco-barros-404693208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="mailto:franciscobarros.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=email&logoColor=white"></img></a>
 
 ### These are some of the technologies and tools that I like and study:
