@@ -7,8 +7,6 @@ I have a degree in System Analysis and Development in Fatec São Paulo, so you c
 
 - 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>. Yes, i'm javascript based! 😵
 
-- 😄 Pronouns: He/Him
-
 <br />
 
 ### Connect with me:
