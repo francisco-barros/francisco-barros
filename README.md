@@ -1,11 +1,11 @@
 ### Hi there! Welcome to my profile.
 
 </br>
-My name is Francisco Barros. I'm from Brazil, currently living in São Paulo and I consider myself a nice person and a software developer. <br />
-I love games, soccer(football), coding and a beer once in a while. <br />
-I have a degree in System Analysis and Development in Fatec São Paulo, so you can always talk with me about technology or something.
+My name is Francisco Barros. I'm from Brazil, I'm a team player and hard worker always learning and trying new things. <br />
+I also love games, soccer(football) and coding. <br />
+I have a degree in System Analysis and Development in Fatec São Paulo, so you can always talk to me about technology or something.
 
-- 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>. Yes, i'm javascript based! 😵
+- 🔭 I’m currently working with <strong> Javascript, Typescript, React, React Native and NodeJS </strong>. Yes, I love Javascript! 😵
 
 <br />
 
