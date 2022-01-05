@@ -5,7 +5,7 @@ My name is Francisco Barros. I'm from Brazil, I'm a team player and hard worker 
 I also love games, soccer(football) and coding. <br />
 I have a degree in System Analysis and Development in Fatec São Paulo, so you can always talk to me about technology or something.
 
-- 🔭 I’m currently working with <strong> Javascript, Typescript, React, React Native and NodeJS </strong>. Yes, I love Javascript! 😵
+- 🔭 I’m currently working with <strong> Javascript, Typescript, React and NodeJS </strong>. Yes, I love Javascript! 😵
 
 <br />
 
