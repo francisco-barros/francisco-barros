@@ -22,7 +22,6 @@ I have a degree in System Analysis and Development in Fatec São Paulo, so you c
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
